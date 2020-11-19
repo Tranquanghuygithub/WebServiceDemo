@@ -22,6 +22,7 @@ public class Demo   {
         System.out.println("ID=2 "+userService.getUserById(2));
         System.out.println("ID=2 "+userService.getUserById(2));
         ((AbstractApplicationContext) context).close();
+        System.out.println("Them Edit vao git nay");
 
     }
 }
