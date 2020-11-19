@@ -1,0 +1,8 @@
+com\webservice\model\User.class
+com\webservice\configuration\WebInitalizer.class
+com\webservice\controller\UserController.class
+com\webservice\mapper\UserMapper.class
+com\webservice\entity\UserEntity.class
+com\webservice\configuration\SpringConfiguration.class
+com\webservice\dao\UserDAO.class
+com\webservice\service\UserService.class
